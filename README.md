@@ -26,3 +26,10 @@ Please tune the member variable of "GinConfig" in caption_configuration.py, then
 ## Visulization
 - Set the model checkpoint path in transformer_MM_viz.py, then run ``python transformer_MM_viz.py`` to generate visulizations described in the paper.
 - Also, visulization with grad cam is also available, by doing the same steps with graph_caption_visualize.py.
+
+## Citation
+@article{zhou2023gnnformer,
+  title={GNNFormer: A Graph-based Framework for Cytopathology Report Generation},
+  author={Zhou, Yang-Fan and Yao, Kai-Lang and Li, Wu-Jun},
+  journal={arXiv preprint arXiv:2303.09956},
+  year={2023} }
