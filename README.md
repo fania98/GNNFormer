@@ -1,3 +1,5 @@
+## Introduction
+This is the code base for paper [GNNFormer: A Graph-based Framework for Cytopathology Report Generation](https://arxiv.org/abs/2303.09956)
 ## Environment Prepare
 - Please install the packages in requirements.txt.
 - To calculate the spice metric: Download [Standford-coreNLP package](https://stanfordnlp.github.io/CoreNLP/), put the jar files in evaluation/spice/lib
